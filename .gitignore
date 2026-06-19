@@ -1,0 +1,60 @@
+# Environment Variables
+.env
+
+# API Keys and Secrets
+*.pem
+*.key
+
+# Memory/History Files
+history.json
+
+# Generated Lead Files
+leads_*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Screenshots/Debug
+debug_*.png
+
+# Local Libraries (should use requirements.txt instead)
+libs/

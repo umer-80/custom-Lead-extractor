@@ -1,0 +1,13 @@
+# Sentinel AI Lead Extractor - Dependencies
+
+# Core Dependencies
+playwright==1.40.0
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+pandas==2.1.4
+rich==13.7.0
+
+# Additional Utilities
+requests==2.31.0
+urllib3==2.1.0
+certifi==2024.2.2 
