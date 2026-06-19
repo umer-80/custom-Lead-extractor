@@ -11,6 +11,11 @@ history.json
 # Generated Lead Files
 leads_*.csv
 
+# Personal/Local Documentation (Not for public repo)
+PORTFOLIO_NOTES.md
+PROJECT_SUMMARY.md
+QUICKSTART.md
+
 # Python
 __pycache__/
 *.py[cod]
